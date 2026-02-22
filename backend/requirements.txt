@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-openai
+chromadb
+pypdf
+tiktoken
+xxhash
+exceptiongroup
+openai
